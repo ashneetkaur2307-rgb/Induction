@@ -1,6 +1,7 @@
 # Day1
 # demo
 - list 1
-- list 2
-  [ing](![Screenshot_20250802_011702_WhatsApp](https://github.com/user-attachments/assets/edf8aa9b-cefb-4ce7-a5f5-cea1ee80d571))
+[ing]([IMG-20250801-WA0012](https://github.com/user-attachments/assets/9e232548-fe62-4205-8a5b-ea52f9eea50d))
+
+
 
