@@ -1,5 +1,17 @@
 # ***Bridging School to College: My Induction Journey***
 ## ✦ Day 1 ✦
+
+## 🏆 Guests of Honour  
+We were honoured to have **Er. Ravinder Garg** *(Chief Engineer, Municipal Corporation, Ludhiana)* and **Er. Rakesh Kumar** *(GNDEC Alumnus – Batch 1991, ADC Ludhiana)*.  
+They spoke about the **importance of prayer**, **faith in God**, and **living with values and vision**.  
+
+The session concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann** *(HoD, IT)*.  
+
+## 🖥 IT Department Tour  
+We then embarked on a tour of the **IT Department**, where **Dr. K.S. Mann** spoke about the **significance of Information Technology**, its **rapidly growing demand**, and the vast **career opportunities** it offers.  
+He also addressed our queries regarding **shifting to the CSE Department**.  
+Our **mentor** then introduced us to **all IT faculty members**, helping us feel welcomed and connected to the department community.
+ Day 1 ✦
 ## 🕰️ Morning Blessings (8:30 AM – 9:30 AM)
 My first day at GNDEC started in the most peaceful way possible. We gathered at the College Gdwara Sahib for the blessings of Shri Guru Granth Sahib Ji. The atmosphere was calm and full of positive energy, and it felt like the perfect start to my college journey. Students from IT and CSE departments attended the path and kirtan, seeking blessings for our future tech dreams. After the ceremony, we all had langar at Girls Hostel No. 2, which added a warm and welcoming touch to the morning.
 
@@ -43,6 +55,8 @@ The session concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann** *
 We then embarked on a tour of the **IT Department**, where **Dr. K.S. Mann** spoke about the **significance of Information Technology**, its **rapidly growing demand**, and the vast **career opportunities** it offers.  
 He also addressed our queries regarding **shifting to the CSE Department**.  
 Our **mentor** then introduced us to **all IT faculty members**, helping us feel welcomed and connected to the department community.
+
+## ✦ Day 2 ✦
 
 
 
