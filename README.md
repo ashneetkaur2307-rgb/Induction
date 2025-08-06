@@ -70,5 +70,19 @@ The day concluded with an **interactive session** led by our talented seniors �
 They introduced us to **GitHub**, guiding us step-by-step in creating our first repository.  
 This hands-on experience not only enhanced our technical skills but also connected us to collaborative tools that are essential in the IT field.
 
+## ✦ Day 3 ✦  
+
+## 🧠 Inspiring Talk by Dr. Jasvinder Singh (9:00 AM – 11:00 AM)
+
+Day 3 began with an insightful session by **Dr. Jasvinder Singh**, Incharge (IAPT) and *Shiksha Ratan* awardee.  
+He shared creative ways to simplify **complex mathematical problems** and beautifully explained how **math, science, and religion are deeply connected**.  
+He also spoke about the **scientific and spiritual significance of the number 108**, and introduced us to the concept of the **God Particle (Higgs Boson)** — expanding our understanding of the universe.
+
+---
+
+## 🌱 Universal Human Values with Dr. Priya Darshani
+
+Next, we had a thoughtful session by **Dr. Priya Darshani Ma’am**, who guided us to **find our purpose** and understand the **difference between actual needs and wants**.  
+She highlighted the importance of values like **empathy, balance, and inner awareness**, encouraging us to grow not only as students but also as responsible human beings.
 
 
