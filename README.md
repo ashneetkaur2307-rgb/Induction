@@ -85,4 +85,17 @@ He also spoke about the **scientific and spiritual significance of the number 10
 Next, we had a thoughtful session by **Dr. Priya Darshani Ma’am**, who guided us to **find our purpose** and understand the **difference between actual needs and wants**.  
 She highlighted the importance of values like **empathy, balance, and inner awareness**, encouraging us to grow not only as students but also as responsible human beings.
 
+## ✦ Day 4 ✦
+
+## 🌐 GitHub Workshop  
+The day began with an insightful session on **GitHub usage**, conducted by a senior from the *Caustic Club*. We learned about its role in **software development, version control, and collaboration**, along with the basics of repositories and workflows.  
+
+## 💡 Human Values Lecture  
+Next, we attended a lecture by **Dr. Priyadarshini Mam** on **Human Values**. She emphasized the importance of leading a value-based life, differentiating between needs and wants, and making conscious choices.  
+
+## 🎤 Interactive Session  
+Later, **Prof. Nisha Mam (English Department)** conducted an engaging session that kept the atmosphere lively and motivating.  
+
+## 📚 Peer-to-Peer Learning  
+The day concluded with an exciting **P2P class**, where our seniors introduced us to the **fundamentals of C++ programming**, giving us practical exposure and strengthening our foundation in coding.
 
