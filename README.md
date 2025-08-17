@@ -114,3 +114,30 @@ Next, **Dr. Amit Kamra** delivered an informative session on the **Digital Marke
 The day concluded with an engaging **interactive session by seniors**, creating a friendly and motivating environment while strengthening peer bonding.  
 
 ✨ Overall, the sessions were diverse and inspiring—covering sports, technology, health, and values, making the day enriching and memorable.
+
+# ✦ Day 6 ✦
+The sixth day of the induction program focused on introducing students to important institutional initiatives aimed at enhancing learning experiences and encouraging active participation in social service.  
+
+## 🎯 Lecture on Center for Multi-Faceted Learning  
+The day began with an informative lecture by *Dr. Lakhvir Singh Khana*, Incharge of the Center for Multi-Faceted Learning. He explained its purpose in providing diverse learning opportunities beyond the classroom through workshops, programs, and activities that build creativity, innovation, leadership, and problem-solving skills.  
+
+## 🌱 Lecture on National Service Scheme (NSS)  
+Next, *Mr. Jasvir Singh Grewal*, Incharge of NSS, explained its objectives, structure, and activities. He highlighted how NSS builds personality, discipline, and social responsibility. Students were encouraged to participate in upcoming events and camps.  
+
+The sixth day’s sessions were enriching, combining academic growth with community service.  
+
+---
+
+## ✦ Day 7 ✦
+The seventh day of the induction program continued the theme of holistic growth, with sessions designed to enhance awareness, discipline, and career outlook.  
+
+## 📚 Lecture on Student Welfare  
+The day began with an address by *Dr. Parminder Singh*, Dean of the college, who spoke about welfare facilities, academic guidance, and overall development, emphasizing mental well-being.  
+
+## 🏋️ Lecture on Fitness for Engineers  
+Following this, *Mr. Manpreet Singh* delivered an energetic talk on maintaining physical fitness despite busy academic schedules. He shared practical tips on exercise, posture, and lifestyle management.  
+
+## 🪖 Expert Lecture by Brigadier P.S. Cheema Sir  
+The final session was led by *Brigadier P.S. Cheema*, who shared valuable life lessons on leadership, time management, resilience, and discipline, leaving a strong motivational impact on students.  
+
+The seventh day provided practical health tips, institutional support, and deep inspiration for students.
