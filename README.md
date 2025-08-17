@@ -99,3 +99,18 @@ Later, **Prof. Nisha Mam (English Department)** conducted an engaging session th
 ## 📚 Peer-to-Peer Learning  
 The day concluded with an exciting **P2P class**, where our seniors introduced us to the **fundamentals of C++ programming**, giving us practical exposure and strengthening our foundation in coding.
 
+## ✦ Day 5 ✦
+
+## 🏎️ Lecture on Motor Sports  
+The day began with an engaging talk by **Mr. Gautam Murria**, who introduced us to the fundamentals, history, and thrill of **Motor Sports**. He shared insights on skills, safety, and dedication required, sparking enthusiasm among students passionate about adventure and racing.  
+
+## 📱 Digital Marketing Club Session  
+Next, **Dr. Amit Kamra** delivered an informative session on the **Digital Marketing Club**. He highlighted its activities, objectives, and how students can learn modern marketing techniques, social media strategies, and digital branding—skills highly valuable in today’s world.  
+
+## 🌾 Expert Lecture on Millets – Super Food  
+**Mrs. Shaffy Makkar** spoke about the nutritional benefits of **millets**, their role in a balanced diet, and their contribution to sustainable agriculture. The session inspired students to adopt healthier food choices.  
+
+## 🤝 Seniors’ Interactive Session  
+The day concluded with an engaging **interactive session by seniors**, creating a friendly and motivating environment while strengthening peer bonding.  
+
+✨ Overall, the sessions were diverse and inspiring—covering sports, technology, health, and values, making the day enriching and memorable.
